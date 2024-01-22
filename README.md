@@ -10,7 +10,7 @@ Este projeto foi criado com o objetivo de apresentar meu trabalho e experiência
 
 Tecnologias Utilizadas 🛠️
 
-Angular: Utilizado para estruturar e desenvolver a aplicação de forma modular e eficiente.
+Angular : Utilizado para estruturar e desenvolver a aplicação de forma modular e eficiente.
 HTML/CSS: A base para a estruturação e estilização da página.
 TypeScript: Linguagem utilizada para o desenvolvimento do código Angular.
 Como Contribuir 🤝
@@ -40,12 +40,3 @@ Contato 📧
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
 
 Espero que minha página de portfólio demonstre de maneira eficaz meu trabalho e habilidades. Obrigado por visitar!🙌
-
-
-
-
-
-
-
-
-
