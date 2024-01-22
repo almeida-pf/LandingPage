@@ -1,4 +1,4 @@
-Meu Portfólio em Angular 🚀🅰️
+Meu Portfólio em Angular 🚀🅰️ Pablo Almeida.
 
 Este repositório contém o código-fonte da minha página de portfólio, desenvolvida utilizando Angular. A seguir, fornecerei uma breve visão geral do projeto.
 
