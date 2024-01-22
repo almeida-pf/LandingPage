@@ -37,7 +37,7 @@ http://localhost:4200/
 Contato 📧
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
 
-Espero que minha página de portfólio demonstre de maneira eficaz meu trabalho e habilidades. Obrigado por visitar! 🙌
+Espero que minha página de portfólio demonstre de maneira eficaz meu trabalho e habilidades. Obrigado por visitar!🙌
 
 
 
