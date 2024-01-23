@@ -1,4 +1,4 @@
-Meu Portfólio em Angular 🚀🅰️ 
+Meu Portfólio em Angular 🚀🅰️  /* Em andamento */
 
 Pablo Almeida. 👾
 
