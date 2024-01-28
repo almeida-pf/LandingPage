@@ -13,8 +13,10 @@ Tecnologias Utilizadas 🛠️
 🅰️Angular: 
 
 Utilizado para estruturar e desenvolver a aplicação de forma modular e eficiente.
-HTML/CSS: A base para a estruturação e estilização da página.
-TypeScript: Linguagem utilizada para o desenvolvimento do código Angular.
+
+</>HTML/CSS: A base para a estruturação e estilização da página.
+
+✍TypeScript: Linguagem utilizada para o desenvolvimento do código Angular.
 Como Contribuir 🤝
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório e enviar pull requests. Ficarei feliz em receber feedbacks, correções de bugs ou sugestões para melhorias.
